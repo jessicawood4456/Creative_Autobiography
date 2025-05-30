@@ -14,7 +14,11 @@ function PhysicalPage() {
             Below are pictures showing how I've changed physically over my life!
           </p>
         </div>
-        <img src="j.jpg" alt="Bride smiling" className="intro-photo" />
+        <img
+          src="physical_dev.jpg"
+          alt="Bride smiling"
+          className="intro-photo"
+        />
       </div>
 
       <div className="card-grid">

@@ -112,3 +112,11 @@ h4 {
   max-height: 200px;
   opacity: 1;
 }
+
+.intro-photo {
+  width: 600px;
+  height: auto;
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+  flex-shrink: 0;
+}
